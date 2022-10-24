@@ -1,6 +1,6 @@
 # Omnifood
 
-**A demo home page for a fictional company Omnifood - an AI-powered food subscription service.**
+**Demo home page for a fictional AI-powered food subscription service - Omnifood.**
 
 Live preview at [dawidlehai-omnifood.netlify.app](https://dawidlehai-omnifood.netlify.app/).
 
