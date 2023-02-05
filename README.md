@@ -2,6 +2,8 @@
 
 **Home page for a fictional AI-powered food subscription service.**
 
+<img src="omnifood-960.webp" alt="Screenshot of the Omnifood website" width="480">
+
 🛠️ Tools: `CSS` `HTML` `JavaScript` `Parcel` `npm` `Netlify`
 
 🌐 Live preview: [dawidlehai-omnifood.netlify.app](https://dawidlehai-omnifood.netlify.app/)
