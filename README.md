@@ -1,8 +1,8 @@
-[<img src="omnifood-logo.webp" alt="Omnifood logo" width="300">](https://dawidlehai-omnifood.netlify.app/)
+[<img src="omnifood-logo-600.webp" alt="Omnifood logo" width="300">](https://dawidlehai-omnifood.netlify.app/)
 
 **Home page for a fictional AI-powered food subscription service.**
 
-[<img src="omnifood-960.webp" alt="Screenshot of the Omnifood home page" width="480">](https://dawidlehai-omnifood.netlify.app/)
+[<img src="omnifood-screenshot-960.webp" alt="Screenshot of the Omnifood home page" width="480">](https://dawidlehai-omnifood.netlify.app/)
 
 🛠️ Tools: `CSS` `HTML` `JavaScript` `Parcel` `npm` `Netlify`
 
