@@ -1,6 +1,6 @@
-# Omnifood
+<img src="img/omnifood-logo.png" alt="Omnifood Logo" width="300">
 
-**Home page for a fictional AI-powered food subscription service — Omnifood.**
+**Home page for a fictional AI-powered food subscription service.**
 
 Live preview at [dawidlehai-omnifood.netlify.app](https://dawidlehai-omnifood.netlify.app/).
 
