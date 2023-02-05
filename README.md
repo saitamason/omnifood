@@ -4,7 +4,7 @@
 
 [<img src="omnifood-screenshot-960.webp" alt="Screenshot of the Omnifood home page" width="480">](https://dawidlehai-omnifood.netlify.app/)
 
-🛠️ Tools: `CSS` `HTML` `JavaScript` `Parcel` `npm` `Netlify`
+🛠️ Tools: `HTML` `CSS` `JavaScript` `Parcel` `npm` `Netlify`
 
 🌐 Live preview: [dawidlehai-omnifood.netlify.app](https://dawidlehai-omnifood.netlify.app/)
 
