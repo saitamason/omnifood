@@ -1,4 +1,4 @@
-# [<img src="omnifood-logo-600.webp" alt="Omnifood logo" width="300">](https://dawidlehai-omnifood.netlify.app/ 'Live preview')
+# <picture><source media="(prefers-color-scheme: dark)" srcset="omnifood-logo-light.webp"><source media="(prefers-color-scheme: light)" srcset="omnifood-logo-600.webp"><img alt="Omnifood logo" src="omnifood-logo-600.webp" width="300"></picture>
 
 **Home page for a fictional AI-powered food subscription service.**
 
