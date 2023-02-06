@@ -4,7 +4,8 @@
 
 ## 💻 Screenshots
 
-[<img src="omnifood-screenshot-960.webp" alt="Screenshot of the Omnifood home page" width="480px">](https://dawidlehai-omnifood.netlify.app/)
+[<img src="omnifood-01.webp" alt="Screenshot #1 of the Omnifood home page" width="480px">](https://dawidlehai-omnifood.netlify.app/)
+[<img src="omnifood-03.webp" alt="Screenshot #2 of the Omnifood home page" width="480px">](https://dawidlehai-omnifood.netlify.app/)
 
 ## 🛠️ Tools and technologies
 `HTML` `CSS` `JavaScript` `Parcel` `npm` `Netlify`
